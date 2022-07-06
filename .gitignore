@@ -37,3 +37,21 @@ CATKIN_IGNORE*
 
 # ROS MoveIt
 default_warehouse_mongo_db/
+
+# MacOS
+## General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+## Thumbnails
+._*
+
+## Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
